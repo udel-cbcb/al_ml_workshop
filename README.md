@@ -85,8 +85,9 @@ Day 4 (June 16, 1:00pm – 5:00pm)
   - [Model Building and Evaluation](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_2_Model_Building_and_Evaluation.ipynb)
   - [Model Tuning, Interpretation, Deployment](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_3_Model_Tunning_Interpretation_Deployment.ipynb)
 - Exercise
-  - [Predict Wine types using physicochemical features](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_1_Predicting_Wine_Types.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_1_Predicting_Wine_Types_Solution.ipynb))
-  - [Predict Wine quality using physicochemical features](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_2_Predicting_Wine_Quality.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_2_Predicting_Wine_Quality_Solution.ipynb))
+  - [Exploratory Analysis of Wine Types and Quality Data](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_1_Exploratory_Analysis_of_Wine_Types_and_Quality_Data.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_1_Exploratory_Analysis_of_Wine_Types_and_Quality_Data_Solution.ipynb))
+  - [Predict Wine types using physicochemical features](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_2_Predicting_Wine_Types.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_2_Predicting_Wine_Types_Solution.ipynb))
+  - [Predict Wine quality using physicochemical features](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_3_Predicting_Wine_Quality.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_3_Predicting_Wine_Quality_Solution.ipynb))
 
 Day 5 (June 17, 1:00pm – 5:00pm)
 - Lecture 
