@@ -36,7 +36,7 @@ Day 1 (June 13, 1:00pm – 5:00pm)
   - Introduction to AI/ML
   - AI/ML Applications in Biology and Chemistry
 - Live Demo
-  - Introduction to Google Colab
+  - [Introduction to Google Colab](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Live_Demos/Day_1_Live_Demo_1_Introduction_to_Google_Colab.ipynb)
   - Introduction to NumPy
   - Introduction to Pandas
 - Exercise
