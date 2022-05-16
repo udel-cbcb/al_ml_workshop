@@ -81,7 +81,7 @@ Day 4 (June 16, 1:00pm – 5:00pm)
   - [ML Models and Model Evaluation](Day_4/Lectures/Day_4_Lecture_1_ML_Models_and_Model_Evaluation.pptx)
   - [Model Tuning, Interpretation and Deployment](Day_4/Lectures/Day_4_Lecture_2_Model_Tuning_Interpretation_Deployment.pptx)
 - Live Demo
-  - [Predict Drug Activity for Androgen Recptor](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_1_Predict_Drug_Activity_for_Androgen_Receptor.ipynb)
+  - [Predict Drug Activity for Androgen Receptor](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_1_Predict_Drug_Activity_for_Androgen_Receptor.ipynb)
   - [Model Building and Evaluation](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_2_Model_Building_and_Evaluation.ipynb)
   - [Model Tuning, Interpretation, Deployment](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_3_Model_Tunning_Interpretation_Deployment.ipynb)
 - Exercise
