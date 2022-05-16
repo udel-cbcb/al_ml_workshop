@@ -31,6 +31,7 @@ work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 ## Schedule
 
 Day 1 (June 13, 1:00pm – 5:00pm)
+- Introduction to Workshop [Day_1/]
 - Lecture
   - Introduction to AI/ML
   - AI/ML Applications in Biology and Chemistry
