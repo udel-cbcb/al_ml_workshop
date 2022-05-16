@@ -33,15 +33,16 @@ work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 Day 1 (June 13, 1:00pm – 5:00pm)
 - [Introduction to Workshop](Day_1/Lectures/Introduction_to_Workshop.pptx)
 - Lecture
-  - Introduction to AI/ML
-  - AI/ML Applications in Biology and Chemistry
+  - [Introduction to AI/ML](Day_1/Lectures/Day_1_Lecture_1_Introduction_to_Artificial_Intelligence_and_Machine_Learning.pptx)
+  - [AI/ML Applications in Biology and Chemistry](Day_1/Lectures/Day_1_Lecture_2_AI_ML_Applications_in_Biology_and_Chemistry.pptx)
 - Live Demo
   - [Introduction to Google Colab](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Live_Demos/Day_1_Live_Demo_1_Introduction_to_Google_Colab.ipynb)
-  - Introduction to NumPy
-  - Introduction to Pandas
+  - [Introduction to NumPy](Day_1/Live_Demos/Day_1_Live_Demo_2_Introduction_to_NumPy.ipynb)
+  - [Introduction to Pandas](Day_1/Live_Demos/Day_1_Live_Demo_3_Introduction_to_Pandas.ipynb)
+  - [Predict Gene Family using DNA Sequence](Day_1/Live_Demos/Day_1_Live_Demo_4_Predict_Gene_Family_Using_DNA_Sequence.ipynb)
 - Exercise
-  - NumPy
-  - Pandas
+  - [NumPy Exercise](Day_1/Exercises/Day_1_Exercise_NumPy.ipynb) ([Solution](Day_1/Exercises/Day_1_Exercise_NumPy_Solution.ipynb))
+  - [Pandas Exercise](Day_1/Exercises/Day_1_Exercise_Pandas.ipynb) ([Solution](Day_1/Exercises/Day_1_Exercise_Pandas_Solution.ipynb))
 
 Day 2 (June 14, 1:00pm – 5:00pm)
 - Lecture
