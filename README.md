@@ -8,11 +8,11 @@ This workshop will provide you with
 - examples of practical applications of AI/ML in computational biology and chemistry,
 - hands-on exercises with emphasis on the importance of data preparation and readiness for AI/ML.
 
-Through introductory lectures, you will be exposed to the basic concepts behind AI/ML approaches to better understand the practical applications of these data science tools, including what types of data can be used for a specific approach, and what types of outcomes can be expected. The illustrative practical applications will help you understand how these tools can be used in your research project. You will also learn about the importance of preparing the data according to the FAIR principles, namely, Findability, Accessibility, Interoperability, and Reusability. This will be addressed by providing you with first-hand experience on the issues arising when data that is not well-prepared, and covering various data formats, processing and wrangling techniques to get the data into a form where it can be utilized by Machine Learning algorithms. You will learn different visualization techniques to better understand the data at hand.
+Through introductory lectures, you will be exposed to the basic concepts behind AI/ML approaches to better understand the practical applications of these data science tools, including what types of data can be used for a specific approach, and what types of outcomes can be expected. The illustrative practical applications will help you understand how these tools can be used in your research project. You will also learn about the importance of preparing the data according to the FAIR principles, namely, [Findability, Accessibility, Interoperability, and Reusability](https://pubmed.ncbi.nlm.nih.gov/26978244/). This will be addressed by providing you with first-hand experience on the issues arising when data that is not well-prepared, and covering various data formats, processing and wrangling techniques to get the data into a form where it can be utilized by Machine Learning algorithms. You will learn different visualization techniques to better understand the data at hand.
 
 ## Requirements
 
-Bring your computer. Live demos and hands-on exercises will involve coding using Google Colaboratory notebooks. Basic Python programming is recommended but not required.
+Bring your computer. Live demos and hands-on exercises will involve coding using [Google Colaboratory](https://colab.research.google.com/?utm_source=scs-index) notebooks. Basic Python programming is recommended but not required. The skills covered in the Data Carpentry Bootcamp that will be held in June 1-3 2022 meet this requirement.
 
 ## Sponsors
 
@@ -46,57 +46,56 @@ Day 1 (June 13, 1:00pm – 5:00pm)
 
 Day 2 (June 14, 1:00pm – 5:00pm)
 - Lecture
-  - Data Collection and Data Preparation
-  - Data Readiness for AI/ML Checklist
+  - [Data Collection and Data Preparation](Day_2/Lectures/Day_2_Lecture_1_Data_Collection_Data_Preparation.pptx)
+  - [Data Readiness for AI/ML Checklist](Day_2/Lectures/Day_2_Lecture_2_Data_Readiness_for_AI_ML_CheckList.pptx)
 - Live Demo
-  - Basic Data Cleaning
-  - Marking and Removal of Missing Data
-  - Outlier Identification and Removal
-  - Missing Data Imputation
+  - [Basic Data Cleaning](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_2/Live_Demos/Day_2_Live_Demo_1_Basic_Data_Cleaning.ipynb)
+  - [Marking and Removal of Missing Data](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_2/Live_Demos/Day_2_Live_Demo_2_Mark_and_Remove_Missing_Data.ipynb)
+  - [Outlier Identification and Removal](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_2/Live_Demos/Day_2_Live_Demo_3_Outlier_Identification_and_Removal.ipynb)
+  - [Missing Data Imputation](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_2/Live_Demos/Day_2_Live_Demo_4_Missing_Data_Imputation.ipynb)
 - Exercise
-  - Data Wrangling
+  - [Data Wrangling Exericse](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_2/Exercises/Day_2_Exercise_Data_Wrangling.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_2/Exercises/Day_2_Exercise_Data_Wrangling_Solution.ipynb))
 
 Day 3 (June 15, 1:00pm – 5:00pm)
 - Lecture
-  - Feature Engineering
-  - Feature Scaling
-  - Feature Selection
+  - [Feature Engineering, Scaling and Selection](Day_3/Lectures/Day_3_Lecture_Feature_Engineering_Scaling_Selection.pptx)
 - Live Demo
   - Feature Engineering
-    - Encode Categorical Data
-    - Change Numerical Data Distribution
-    - Derive New Input Variables
+    - [Encode Categorical Data](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Live_Demos/Day_3_Live_Demo_1_Feature_Engineering_Encode_Categorical_Data.ipynb)
+    - [Change Numerical Data Distribution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Live_Demos/Day_3_Live_Demo_2_Feature_Engineering_Change_Numerical_Data_Distributions.ipynb)
+    - [Derive New Input Variables](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Live_Demos/Day_3_Live_Demo_3_Feature_Engineering_Derive_New_Input_Variables.ipynb)
   - Feature Scaling
-    - Numerical Data
-    - Data With Outliers
+    - [Numerical Data](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Live_Demos/Day_3_LIve_Demo_4_Feature_Scaling_Numerical_Data.ipynb)
+    - [Data With Outliers](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Live_Demos/Day_3_Live_Demo_5_Feature_Scaling_Data_with_Outliers.ipynb)
   - Feature Selection
-    - Numerical Input Features
-    - Categorical Input Features
-    - Recursive Feature Elimination
+    - [Numerical Input Features](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Live_Demos/Day_3_Live_Demo_6_Feature_Selection_Categorical_Input_Features.ipynb)
+    - [Categorical Input Features](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Live_Demos/Day_3_LIve_Demo_7_Feature_Selection_Numerical_Input_Features.ipynb)
+    - [Recursive Feature Elimination](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Live_Demos/Day_3_Live_Demo_8_Feature_Selection_Recursive_Feature_Elimination.ipynb)
 - Exercise
-  - Feature Engineering
-  - Feature Scaling
-  - Feature Selection
+  - [Feature Engineering Exercise](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Exercises/Day_3_Exercise_Feature_Engineering.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Exercises/Day_3_Exercise_Feature_Engineering_Solution.ipynb))
+  - [Feature Scaling Exercise](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Exercises/Day_3_Exercise_Feature_Scaling.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Exercises/Day_3_Exercise_Feature_Scaling_Solution.ipynb))
+  - [Feature Selection Exercise](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Exercises/Day_3_Exericse_Feature_Selection.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Exercises/Day_3_Exericse_Feature_Selection_Solution.ipynb))
 
 Day 4 (June 16, 1:00pm – 5:00pm)
 - Lecture 
-  - ML Models and Model Evaluation
-  - Model Tuning, Interpretation and Deployment
+  - [ML Models and Model Evaluation](Day_4/Lectures/Day_4_Lecture_1_ML_Models_and_Model_Evaluation.pptx)
+  - [Model Tuning, Interpretation and Deployment](Day_4/Lectures/Day_4_Lecture_2_Model_Tuning_Interpretation_Deployment.pptx)
 - Live Demo
-  - Model Building and Evaluation
-  - Model Tuning, Interpretation, Deployment
+  - [Predict Drug Activity for Androgen Recptor](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_1_Predict_Drug_Activity_for_Androgen_Receptor.ipynb)
+  - [Model Building and Evaluation](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_2_Model_Building_and_Evaluation.ipynb)
+  - [Model Tuning, Interpretation, Deployment](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_3_Model_Tunning_Interpretation_Deployment.ipynb)
 - Exercise
-  - Wine types prediction using physicochemical features
-  - Wine quality prediction using physicochemical features
+  - [Predict Wine types using physicochemical features](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_1_Predicting_Wine_Types.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_1_Predicting_Wine_Types_Solution.ipynb))
+  - [Predict Wine quality using physicochemical features](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_2_Predicting_Wine_Quality.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_2_Predicting_Wine_Quality_Solution.ipynb))
 
 Day 5 (June 17, 1:00pm – 5:00pm)
 - Lecture 
-  - Introduction to Deep Learning
+  - [Introduction to Deep Learning](Day_5/Lectures/Day_5_Lecture_1_Introduction_to_Deep_Learning.pptx)
 - Live Demo
-  - Pfam protein sequence classification using Tensorflow and Keras
-  - Predicting molecule solubility using DeepChem
+  - [Pfam protein sequence classification using Tensorflow and Keras](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_5/Live_Demos/Day_5_Live_Demo_1_Pfam_Protein_Sequence_Classification_with_Tensorflow_Keras.ipynb)
+  - [Predicting molecule solubility using DeepChem](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_5/Live_Demos/Day_5_Live_Demo_2_Predicting_the_Solubility_of_Small_Molecules.ipynb)
 - Exercise
-  - Wine types prediction using Deep Learning
-  - Protein 3D structure prediction using AlphaFold2
-- Course Summary
+  - [Predict Wine types using Deep Learning](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_5/Exercises/Day_5_Exercise_1_Predicting_Wine_Types_Deep_Learing.ipynb) ([Solution](Day_5/Exercises/Day_5_Exercise_1_Predicting_Wine_Types_Deep_Learing_Solution.ipynb))
+  - [Protein 3D structure prediction using AlphaFold2](Day_5/Exercises/Day_5_Exercise_2_AlphaFold.ipynb)
+- [Course Summary](Day_5/Lectures/Course%20Summary.pptx)
 
