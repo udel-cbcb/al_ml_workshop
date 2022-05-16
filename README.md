@@ -96,6 +96,6 @@ Day 5 (June 17, 1:00pm – 5:00pm)
   - [Predicting molecule solubility using DeepChem](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_5/Live_Demos/Day_5_Live_Demo_2_Predicting_the_Solubility_of_Small_Molecules.ipynb)
 - Exercise
   - [Predict Wine types using Deep Learning](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_5/Exercises/Day_5_Exercise_1_Predicting_Wine_Types_Deep_Learing.ipynb) ([Solution](Day_5/Exercises/Day_5_Exercise_1_Predicting_Wine_Types_Deep_Learing_Solution.ipynb))
-  - [Protein 3D structure prediction using AlphaFold2](Day_5/Exercises/Day_5_Exercise_2_AlphaFold.ipynb)
+  - [Protein 3D structure prediction using AlphaFold2](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_5/Exercises/Day_5_Exercise_2_AlphaFold.ipynb)
 - [Course Summary](Day_5/Lectures/Course%20Summary.pptx)
 
