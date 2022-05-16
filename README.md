@@ -31,10 +31,10 @@ work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
 ## Schedule
 
 Day 1 (June 13, 1:00pm – 5:00pm)
-- [Introduction to Workshop](Day_1/Lectures/Introduction_to_Workshop.pptx)
+- [Introduction to Workshop](https://docs.google.com/presentation/d/1is6-cpgnrYn5vHzUTF9iovDPMOmmnf6hsPeJi1AeLfI/edit?usp=sharing)
 - Lecture
-  - [Introduction to AI/ML](Day_1/Lectures/Day_1_Lecture_1_Introduction_to_Artificial_Intelligence_and_Machine_Learning.pptx)
-  - [AI/ML Applications in Biology and Chemistry](Day_1/Lectures/Day_1_Lecture_2_AI_ML_Applications_in_Biology_and_Chemistry.pptx)
+  - [Introduction to AI/ML](https://docs.google.com/presentation/d/1QqiLijMrdQ5bwjayNeFz2dCx1v8Te4PVy5brscaL-aY/edit?usp=sharing)
+  - [AI/ML Applications in Biology and Chemistry](https://docs.google.com/presentation/d/1z9OktpolGPzeWjN_mz4h61iV22i9Zvf0qTQp5MW7YA4/edit?usp=sharing)
 - Live Demo
   - [Introduction to Google Colab](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Live_Demos/Day_1_Live_Demo_1_Introduction_to_Google_Colab.ipynb)
   - [Introduction to NumPy](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Live_Demos/Day_1_Live_Demo_2_Introduction_to_NumPy.ipynb)
@@ -46,8 +46,8 @@ Day 1 (June 13, 1:00pm – 5:00pm)
 
 Day 2 (June 14, 1:00pm – 5:00pm)
 - Lecture
-  - [Data Collection and Data Preparation](Day_2/Lectures/Day_2_Lecture_1_Data_Collection_Data_Preparation.pptx)
-  - [Data Readiness for AI/ML Checklist](Day_2/Lectures/Day_2_Lecture_2_Data_Readiness_for_AI_ML_CheckList.pptx)
+  - [Data Collection and Data Preparation](https://docs.google.com/presentation/d/1iuT2jQpTqY6E8CI2GRbwFALLCTPukQLlCkB7d4xj8jA/edit?usp=sharing)
+  - [Data Readiness for AI/ML Checklist](https://docs.google.com/presentation/d/1AGXmqoWbo1JHNTcgVqWXVYEbTlPg1Rid7J8mbrm58Kk/edit?usp=sharing)
 - Live Demo
   - [Basic Data Cleaning](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_2/Live_Demos/Day_2_Live_Demo_1_Basic_Data_Cleaning.ipynb)
   - [Marking and Removal of Missing Data](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_2/Live_Demos/Day_2_Live_Demo_2_Mark_and_Remove_Missing_Data.ipynb)
@@ -58,7 +58,7 @@ Day 2 (June 14, 1:00pm – 5:00pm)
 
 Day 3 (June 15, 1:00pm – 5:00pm)
 - Lecture
-  - [Feature Engineering, Scaling and Selection](Day_3/Lectures/Day_3_Lecture_Feature_Engineering_Scaling_Selection.pptx)
+  - [Feature Engineering, Scaling and Selection](https://docs.google.com/presentation/d/1boVdrT2YqcIj0MzOQiObSp8MBqGcgrtaYoJvve0C5IU/edit?usp=sharing)
 - Live Demo
   - Feature Engineering
     - [Encode Categorical Data](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Live_Demos/Day_3_Live_Demo_1_Feature_Engineering_Encode_Categorical_Data.ipynb)
@@ -78,8 +78,8 @@ Day 3 (June 15, 1:00pm – 5:00pm)
 
 Day 4 (June 16, 1:00pm – 5:00pm)
 - Lecture 
-  - [ML Models and Model Evaluation](Day_4/Lectures/Day_4_Lecture_1_ML_Models_and_Model_Evaluation.pptx)
-  - [Model Tuning, Interpretation and Deployment](Day_4/Lectures/Day_4_Lecture_2_Model_Tuning_Interpretation_Deployment.pptx)
+  - [ML Models and Model Evaluation](https://docs.google.com/presentation/d/1nk-CBd-6o5J-S8QTVrvXOtalnjUoSRgqgHSNaFEAq4M/edit?usp=sharing)
+  - [Model Tuning, Interpretation and Deployment](https://docs.google.com/presentation/d/1PRIDgPmcQuxxHIs3V0zslJXymmEwQSqdJgwgJ0t3yWY/edit?usp=sharing)
 - Live Demo
   - [Predict Drug Activity for Androgen Receptor](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_1_Predict_Drug_Activity_for_Androgen_Receptor.ipynb)
   - [Model Building and Evaluation](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_2_Model_Building_and_Evaluation.ipynb)
@@ -91,12 +91,12 @@ Day 4 (June 16, 1:00pm – 5:00pm)
 
 Day 5 (June 17, 1:00pm – 5:00pm)
 - Lecture 
-  - [Introduction to Deep Learning](Day_5/Lectures/Day_5_Lecture_1_Introduction_to_Deep_Learning.pptx)
+  - [Introduction to Deep Learning](https://docs.google.com/presentation/d/1_GNZw6aiE8m9YMsF18NokoIJH6K2tWLWN70S4C98kxM/edit?usp=sharing)
 - Live Demo
   - [Pfam protein sequence classification using Tensorflow and Keras](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_5/Live_Demos/Day_5_Live_Demo_1_Pfam_Protein_Sequence_Classification_with_Tensorflow_Keras.ipynb)
   - [Predicting molecule solubility using DeepChem](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_5/Live_Demos/Day_5_Live_Demo_2_Predicting_the_Solubility_of_Small_Molecules.ipynb)
 - Exercise
   - [Predict Wine types using Deep Learning](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_5/Exercises/Day_5_Exercise_1_Predicting_Wine_Types_Deep_Learing.ipynb) ([Solution](Day_5/Exercises/Day_5_Exercise_1_Predicting_Wine_Types_Deep_Learing_Solution.ipynb))
   - [Protein 3D structure prediction using AlphaFold2](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
-- [Course Summary](Day_5/Lectures/Course%20Summary.pptx)
+- [Course Summary](https://docs.google.com/presentation/d/1lqlWVt4-bZHavCK4rfEKl0In6iENZl6tn569CtI0nlA/edit?usp=sharing)
 
