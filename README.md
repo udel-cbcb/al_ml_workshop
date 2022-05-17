@@ -1,5 +1,13 @@
 # Practical AI/ML for Computational Biology and Chemistry Workshop
 
+  - [Introduction](#introduction)
+  - [Requirements](#requirements)
+  - [Sponsors](#sponsors)
+  - [License](#license)
+  - [Schedule](#schedule)
+  - [Logistics](#logistics)
+
+## Introduction
 Research is being revolutionized by methods from the field of Artificial Intelligence and Machine Learning (AI/ML). AI is the simulation of human intelligence processes (such as problem-solving, learning, and planning) by machines, while ML, a type of artificial intelligence, gives computers the ability to learn without explicitly being programmed. They have been applied in many areas including drug discovery, protein folding, and identification of variants from genetic data.
 
 This workshop will provide you with
@@ -100,7 +108,7 @@ Day 5 (June 17, 1:00pm – 5:00pm)
   - [Protein 3D structure prediction using AlphaFold2](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
 - [Course Summary](https://docs.google.com/presentation/d/1lqlWVt4-bZHavCK4rfEKl0In6iENZl6tn569CtI0nlA/edit?usp=sharing)
 
-## Workshop Logistics
+## Logistics
 
 A reminder that the workshop is in person in the auditorium (BPI 140) of the Ammon Pinizzotto Biopharmaceutical Innovation Center which is located on UD STAR Campus at 590 Avenue 1743.  If you are not a resident of BPI, you do NOT need to sign in at the front desk.
 
