@@ -100,3 +100,15 @@ Day 5 (June 17, 1:00pm – 5:00pm)
   - [Protein 3D structure prediction using AlphaFold2](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
 - [Course Summary](https://docs.google.com/presentation/d/1lqlWVt4-bZHavCK4rfEKl0In6iENZl6tn569CtI0nlA/edit?usp=sharing)
 
+## Workshop Logistics
+
+A reminder that the workshop is in person in the auditorium (BPI 140) of the Ammon Pinizzotto Biopharmaceutical Innovation Center which is located on UD STAR Campus at 590 Avenue 1743.  If you are not a resident of BPI, you do NOT need to sign in at the front desk.
+
+Parking/Transportation:
+UD permit parking is available. Gray Permit: Lot 207 (some spaces) and on street parking on Discovery Blvd and Avenue 1743; Red Permit: Lot 209.  Those without UD parking permits may use on street parking and pay at kiosks or using the PassPort app.  Parking map available at: https://sites.udel.edu/parking/.  UD Bus: North/South College Route use the Star Tower stop.
+
+COVID Considerations:
+All participants must complete the UD COVID Check (https://covidcheck.udel.edu) each day before arriving on UD’s campus.  While the University of Delaware no longer requires masks to be worn for non-classroom events, all participants are encouraged to bring a mask for use whenever social distancing cannot be maintained.  
+
+Please Be Kind:
+The organizers of the workshop and the University of Delaware are dedicated to fostering a safe and inclusive learning environment that does not discriminate against any person on the basis of race, color, national origin, sex, gender identity or expression, sexual orientation, disability, religion, age, or any other characteristic.  All participants are asked to also please abide by these values in your interactions with others throughout this workshop.
