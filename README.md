@@ -126,4 +126,4 @@ The organizers of the workshop and the University of Delaware are dedicated to f
 
 **Slack Channel**
 
-We have dedicated [Slack Channel](https://ud-cbcbcore-workshops.slack.com/archives/C03G09R43SA) for this workshop.
+We have a dedicated [Slack Channel](https://ud-cbcbcore-workshops.slack.com/archives/C03G09R43SA) for this workshop.
