@@ -118,7 +118,7 @@ UD permit parking is available. Gray Permit: Lot 207 (some spaces) and on street
 
 **COVID Considerations**
 
-All participants must complete the UD COVID Check (https://covidcheck.udel.edu) each day before arriving on UD’s campus. Face masks must be worn indoors except when actively eating or drinking.  
+Face mask requirements remain in place for all indoor spaces in accordance with CDC guidance pertaining to the local Delaware community.  
 
 **Please Be Kind**
 
