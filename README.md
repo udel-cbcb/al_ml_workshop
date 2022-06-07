@@ -110,7 +110,7 @@ Day 5 (June 17, 1:00pm – 5:00pm)
 
 ## Logistics
 
-A reminder that the workshop is in person in the auditorium (BPI 140) of the Ammon Pinizzotto Biopharmaceutical Innovation Center which is located on UD STAR Campus at 590 Avenue 1743.  If you are not a resident of BPI, you do NOT need to sign in at the front desk.
+The workshop is in person in the auditorium (BPI 140) of the Ammon Pinizzotto Biopharmaceutical Innovation Center which is located on UD STAR Campus at 590 Avenue 1743.  If you are not a resident of BPI, you do NOT need to sign in at the front desk.
 
 **Parking/Transportation**
 
