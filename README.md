@@ -123,7 +123,3 @@ Face mask requirements remain in place for all indoor spaces in accordance with 
 **Please Be Kind**
 
 The organizers of the workshop and the University of Delaware are dedicated to fostering a safe and inclusive learning environment that does not discriminate against any person on the basis of race, color, national origin, sex, gender identity or expression, sexual orientation, disability, religion, age, or any other characteristic.  All participants are asked to also please abide by these values in your interactions with others throughout this workshop.
-
-**Slack Channel**
-
-We have a dedicated [Slack Channel](https://ud-cbcbcore-workshops.slack.com/archives/C03G09R43SA) for this workshop.
