@@ -89,9 +89,9 @@ Day 4 (June 16, 1:00pm – 5:00pm)
   - [AI/ML Models and Model Evaluation](https://docs.google.com/presentation/d/1nk-CBd-6o5J-S8QTVrvXOtalnjUoSRgqgHSNaFEAq4M/edit?usp=sharing) ([Quiz](https://forms.gle/eqjGPvWg517qxP9y7))
   - [Model Tuning, Interpretation and Deployment](https://docs.google.com/presentation/d/1PRIDgPmcQuxxHIs3V0zslJXymmEwQSqdJgwgJ0t3yWY/edit?usp=sharing) ([Quiz](https://forms.gle/CRi9mTaqdZEBinzVA))
 - Live Demo
-  - [Predict Drug Activity for Androgen Receptor](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_1_Predict_Drug_Activity_for_Androgen_Receptor.ipynb)
-  - [Model Building and Evaluation](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_2_Model_Building_and_Evaluation.ipynb)
-  - [Model Tuning, Interpretation, Deployment](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_3_Model_Tunning_Interpretation_Deployment.ipynb)
+  - [Model Building and Evaluation](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_1_Model_Building_and_Evaluation.ipynb)
+  - [Model Tuning, Interpretation, Deployment](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_2_Model_Tunning_Interpretation_Deployment.ipynb)
+  - [Predict Drug Activity for Androgen Receptor](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_3_Predict_Drug_Activity_for_Androgen_Receptor.ipynb)
 - Exercise
   - [Exploratory Analysis of Wine Types and Quality Data](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_1_Exploratory_Analysis_of_Wine_Types_and_Quality_Data.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_1_Exploratory_Analysis_of_Wine_Types_and_Quality_Data_Solution.ipynb))
   - [Predict Wine types using physicochemical features](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_2_Predicting_Wine_Types.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Exercises/Day_4_Exercise_2_Predicting_Wine_Types_Solution.ipynb))
