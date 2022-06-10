@@ -107,6 +107,7 @@ Day 5 (June 17, 1:00pm – 5:00pm)
   - [Predict Wine types using Deep Learning](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_5/Exercises/Day_5_Exercise_1_Predicting_Wine_Types_Deep_Learing.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_5/Exercises/Day_5_Exercise_1_Predicting_Wine_Types_Deep_Learing_Solution.ipynb))
   - [Protein 3D structure prediction using AlphaFold2](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_5/Exercises/Day_5_Exercise_2_AlphaFold.ipynb)
 - [Course Summary](https://docs.google.com/presentation/d/1lqlWVt4-bZHavCK4rfEKl0In6iENZl6tn569CtI0nlA/edit?usp=sharing)
+- [Course Survey](https://forms.gle/7D8hrCVzUGJcUwwY7)
 
 ## Logistics
 
